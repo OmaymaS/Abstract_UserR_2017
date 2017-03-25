@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # UseR 2017 Abstract
 
 ## Once Upon Data: The Tidyverse as A Tool to Understand Our Users and Tell Their Stories
