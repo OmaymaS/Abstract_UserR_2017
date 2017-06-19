@@ -1,4 +1,5 @@
-# UseR 2017 Abstract
+# UseR 2017 Abstract 
+*Not Accepted*
 
 ## Once Upon Data: The Tidyverse as A Tool to Understand Our Users and Tell Their Stories
 
